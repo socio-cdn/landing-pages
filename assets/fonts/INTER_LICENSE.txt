@@ -1,0 +1,7 @@
+Inter font files in this folder are sourced from:
+https://github.com/rsms/inter
+
+License:
+SIL Open Font License 1.1 (OFL-1.1)
+https://github.com/rsms/inter/blob/master/LICENSE.txt
+
